@@ -5,23 +5,13 @@ Thank you for visiting and feel free to connect with me on [LinkedIn](https://ww
 ## Tech Stack
 
 ### Frontend
-- Vue
-- React
-- Typescript
-- Javascript
-- HTML
-- CSS
-- Tailwind
+Vue | React | Typescript | Javascript | HTML | CSS | Tailwind
 
 ### Backend 
-- Node.js
-- Express
+Node.js | Express
 
 ### Database / ORM
-- PostgreSQL
-- Prisma
-- Knex
+PostgreSQL | Prisma | Knex
 
 ### Deployment
-- Heroku
-- Render
+Heroku | Render
