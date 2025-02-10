@@ -5,7 +5,7 @@ Thank you for visiting and feel free to connect with me on [LinkedIn](https://ww
 ## Tech Stack
 
 ### Frontend
-Vue | React | Typescript | Javascript | HTML | CSS | Tailwind
+Vue | React | Django | Typescript | Javascript | Python | HTML | CSS | Tailwind
 
 ### Backend 
 Node.js | Express
